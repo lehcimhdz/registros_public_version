@@ -1,0 +1,803 @@
+index_número_registro,tipo_registro,núcleo_víctima,nombre_víctima,tipo_delito,fecha_registro,directa_indirecta,fecha_acuerdo_ministerial,carpeta_investigacion,numero_anexo,numero_recomendacion,nombre_recomendacion,fecha_emision_recomendacion,derechos_violados,clave_víctima,fecha_sentencia,expediente_judicial,AlfanúmericaRegistro
+1,Delito – Judicial,Name,Name,Type,NA,directa,NA,NA,NA,NA,NA,NA,NA,NA,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA
+2,Delito – Judicial,Name,Name,Type,NA,indirecta,NA,NA,NA,NA,NA,NA,NA,NA,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA
+3,Delito – Judicial,Name,Name,Type,NA,directa,NA,NA,NA,NA,NA,NA,NA,NA,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA
+4,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Torture as method of investigation in crimes of high impact [Example],14 de diciembre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+5,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Deaths for violence in Penitentiary Centers [Example],07 de octubre de 2019,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+6,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),On the violation of the right to movility and access to justice for not guaranteeing security [Example],07 de octubre de 2019,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+7,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),On the right of women to a life free of obstetric violence [Example],07 de octubre de 2019,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+8,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Use of psychological torture as research tool [Example],9 de diciembre de 2019,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+9,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Torture as method of investigation in crimes of high impact [Example],13 de octubre de 2020,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+10,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Deaths for violence in Penitentiary Centers [Example],02 de noviembre de 2020,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+11,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),On the violation of the right to movility and access to justice for not guaranteeing security [Example],02 de noviembre de 2020,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+12,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),On the right of women to a life free of obstetric violence [Example],02 de noviembre de 2020,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+13,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Use of psychological torture as research tool [Example],15 de diciembre de 2021,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+14,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Torture as method of investigation in crimes of high impact [Example],15 de diciembre de 2021,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+15,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Deaths for violence in Penitentiary Centers [Example],15 de diciembre de 2021,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+16,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),On the violation of the right to movility and access to justice for not guaranteeing security [Example],15 de diciembre de 2021,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+17,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),On the right of women to a life free of obstetric violence [Example],15 de diciembre de 2021,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+18,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Use of psychological torture as research tool [Example],10 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+19,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Torture as method of investigation in crimes of high impact [Example],10 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+20,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Deaths for violence in Penitentiary Centers [Example],10 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+21,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),On the violation of the right to movility and access to justice for not guaranteeing security [Example],10 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+22,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),On the right of women to a life free of obstetric violence [Example],10 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+23,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Use of psychological torture as research tool [Example],10 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+24,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Torture as method of investigation in crimes of high impact [Example],10 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+25,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Deaths for violence in Penitentiary Centers [Example],11 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+26,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),On the violation of the right to movility and access to justice for not guaranteeing security [Example],11 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+27,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),On the right of women to a life free of obstetric violence [Example],11 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+28,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Use of psychological torture as research tool [Example],21 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+29,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Torture as method of investigation in crimes of high impact [Example],21 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+30,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Deaths for violence in Penitentiary Centers [Example],21 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+31,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),On the violation of the right to movility and access to justice for not guaranteeing security [Example],21 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+32,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),On the right of women to a life free of obstetric violence [Example],21 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+33,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Use of psychological torture as research tool [Example],21 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+34,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Torture as method of investigation in crimes of high impact [Example],21 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+35,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Deaths for violence in Penitentiary Centers [Example],21 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+36,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),On the violation of the right to movility and access to justice for not guaranteeing security [Example],21 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+37,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),On the right of women to a life free of obstetric violence [Example],21 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+38,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Use of psychological torture as research tool [Example],21 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+39,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Torture as method of investigation in crimes of high impact [Example],21 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+40,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Deaths for violence in Penitentiary Centers [Example],21 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+41,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),On the violation of the right to movility and access to justice for not guaranteeing security [Example],21 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+42,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),On the right of women to a life free of obstetric violence [Example],21 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+43,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Use of psychological torture as research tool [Example],21 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+44,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Torture as method of investigation in crimes of high impact [Example],21 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+45,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Deaths for violence in Penitentiary Centers [Example],21 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+46,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),On the violation of the right to movility and access to justice for not guaranteeing security [Example],21 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+47,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),On the right of women to a life free of obstetric violence [Example],21 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+48,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Use of psychological torture as research tool [Example],21 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+49,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Torture as method of investigation in crimes of high impact [Example],21 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+50,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Deaths for violence in Penitentiary Centers [Example],21 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+51,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),On the violation of the right to movility and access to justice for not guaranteeing security [Example],21 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+52,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),On the right of women to a life free of obstetric violence [Example],21 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+53,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Use of psychological torture as research tool [Example],21 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+54,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Torture as method of investigation in crimes of high impact [Example],21 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+55,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Deaths for violence in Penitentiary Centers [Example],21 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+56,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),On the violation of the right to movility and access to justice for not guaranteeing security [Example],21 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+57,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),On the right of women to a life free of obstetric violence [Example],21 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+58,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Use of psychological torture as research tool [Example],21 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+59,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Torture as method of investigation in crimes of high impact [Example],21 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+60,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Deaths for violence in Penitentiary Centers [Example],21 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+61,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),On the violation of the right to movility and access to justice for not guaranteeing security [Example],21 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+62,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),On the right of women to a life free of obstetric violence [Example],21 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+63,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Use of psychological torture as research tool [Example],21 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+64,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Torture as method of investigation in crimes of high impact [Example],21 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+65,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Deaths for violence in Penitentiary Centers [Example],21 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+66,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),On the violation of the right to movility and access to justice for not guaranteeing security [Example],21 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+67,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),On the right of women to a life free of obstetric violence [Example],21 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+68,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Use of psychological torture as research tool [Example],21 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+69,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Torture as method of investigation in crimes of high impact [Example],21 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+70,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Deaths for violence in Penitentiary Centers [Example],21 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+71,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),On the violation of the right to movility and access to justice for not guaranteeing security [Example],21 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+72,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),On the right of women to a life free of obstetric violence [Example],21 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+73,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Use of psychological torture as research tool [Example],21 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+74,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Torture as method of investigation in crimes of high impact [Example],21 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+75,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Deaths for violence in Penitentiary Centers [Example],21 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+76,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),On the violation of the right to movility and access to justice for not guaranteeing security [Example],21 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+77,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),On the right of women to a life free of obstetric violence [Example],21 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+78,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Use of psychological torture as research tool [Example],21 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+79,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Torture as method of investigation in crimes of high impact [Example],24 de noviembre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+80,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Deaths for violence in Penitentiary Centers [Example],24 de noviembre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+81,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),On the violation of the right to movility and access to justice for not guaranteeing security [Example],24 de noviembre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+82,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),On the right of women to a life free of obstetric violence [Example],24 de noviembre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+83,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Use of psychological torture as research tool [Example],24 de noviembre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+84,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Torture as method of investigation in crimes of high impact [Example],21 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+85,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Deaths for violence in Penitentiary Centers [Example],21 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+86,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),On the violation of the right to movility and access to justice for not guaranteeing security [Example],21 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+87,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),On the right of women to a life free of obstetric violence [Example],21 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+88,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Use of psychological torture as research tool [Example],21 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+89,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Torture as method of investigation in crimes of high impact [Example],21 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+90,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Deaths for violence in Penitentiary Centers [Example],21 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+91,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),On the violation of the right to movility and access to justice for not guaranteeing security [Example],21 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+92,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),On the right of women to a life free of obstetric violence [Example],21 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+93,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Use of psychological torture as research tool [Example],21 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+94,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Torture as method of investigation in crimes of high impact [Example],31 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+95,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Deaths for violence in Penitentiary Centers [Example],31 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+96,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),On the violation of the right to movility and access to justice for not guaranteeing security [Example],31 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+97,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),On the right of women to a life free of obstetric violence [Example],31 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+98,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Use of psychological torture as research tool [Example],31 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+99,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Torture as method of investigation in crimes of high impact [Example],17 de noviembre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+100,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Deaths for violence in Penitentiary Centers [Example],24 de noviembre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+101,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),On the violation of the right to movility and access to justice for not guaranteeing security [Example],24 de noviembre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+102,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),On the right of women to a life free of obstetric violence [Example],28 de noviembre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+103,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Use of psychological torture as research tool [Example],28 de noviembre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+104,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Torture as method of investigation in crimes of high impact [Example],14 de diciembre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+105,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Deaths for violence in Penitentiary Centers [Example],14 de diciembre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+106,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),On the violation of the right to movility and access to justice for not guaranteeing security [Example],14 de diciembre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+107,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),On the right of women to a life free of obstetric violence [Example],14 de diciembre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+108,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Use of psychological torture as research tool [Example],14 de diciembre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+109,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Torture as method of investigation in crimes of high impact [Example],14 de diciembre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+110,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Deaths for violence in Penitentiary Centers [Example],14 de diciembre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+111,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),On the violation of the right to movility and access to justice for not guaranteeing security [Example],19 de diciembre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+112,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),On the right of women to a life free of obstetric violence [Example],19 de diciembre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+113,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Use of psychological torture as research tool [Example],19 de diciembre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+114,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Torture as method of investigation in crimes of high impact [Example],19 de diciembre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+115,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Deaths for violence in Penitentiary Centers [Example],10 de enero de 2023,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+116,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),On the violation of the right to movility and access to justice for not guaranteeing security [Example],15 de marzo de 2023,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+117,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),On the right of women to a life free of obstetric violence [Example],15 de marzo de 2023,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+118,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Use of psychological torture as research tool [Example],15 de marzo de 2023,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+119,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Torture as method of investigation in crimes of high impact [Example],15 de marzo de 2023,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+120,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Deaths for violence in Penitentiary Centers [Example],26 de junio de 2023,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+121,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),On the violation of the right to movility and access to justice for not guaranteeing security [Example],26 de junio de 2023,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+122,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),On the right of women to a life free of obstetric violence [Example],21 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+123,Delito – MP,Name,Name,Type,25 de enero de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+124,Delito – MP,Name,Name,Type,25 de enero de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+125,Delito – MP,Name,Name,Type,25 de enero de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+126,Delito – MP,Name,Name,Type,25 de enero de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+127,Delito – MP,Name,Name,Type,25 de enero de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+128,Delito – MP,Name,Name,Type,25 de enero de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+129,Delito – MP,Name,Name,Type,25 de enero de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+130,Delito – MP,Name,Name,Type,25 de enero de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+131,Delito – MP,Name,Name,Type,25 de enero de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+132,Delito – MP,Name,Name,Type,25 de enero de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+133,Delito – MP,Name,Name,Type,25 de enero de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+134,Delito – MP,Name,Name,Type,25 de enero de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+135,Delito – MP,Name,Name,Type,25 de enero de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+136,Delito – MP,Name,Name,Type,25 de enero de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+137,Delito – MP,Name,Name,Type,25 de enero de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+138,Delito – MP,Name,Name,Type,25 de enero de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+139,Delito – MP,Name,Name,Type,25 de enero de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+140,Delito – MP,Name,Name,Type,25 de enero de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+141,Delito – MP,Name,Name,Type,25 de enero de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+142,Delito – MP,Name,Name,Type,25 de enero de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+143,Delito – MP,Name,Name,Type,25 de enero de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+144,Delito – MP,Name,Name,Type,25 de enero de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+145,Delito – MP,Name,Name,Type,25 de enero de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+146,Delito – MP,Name,Name,Type,25 de enero de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+147,Delito – MP,Name,Name,Type,25 de enero de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+148,Delito – MP,Name,Name,Type,25 de enero de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+149,Delito – MP,Name,Name,Type,25 de enero de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+150,Delito – MP,Name,Name,Type,25 de enero de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+151,Delito – MP,Name,Name,Type,25 de enero de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+152,Delito – MP,Name,Name,Type,25 de enero de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+153,Delito – MP,Name,Name,Type,25 de enero de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+154,Delito – MP,Name,Name,Type,25 de enero de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+155,Delito – MP,Name,Name,Type,25 de enero de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+156,Delito – MP,Name,Name,Type,25 de enero de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+157,Delito – MP,Name,Name,Type,25 de enero de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+158,Delito – MP,Name,Name,Type,25 de enero de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+159,Delito – MP,Name,Name,Type,25 de enero de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+160,Delito – MP,Name,Name,Type,25 de enero de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+161,Delito – MP,Name,Name,Type,25 de enero de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+162,Delito – MP,Name,Name,Type,25 de enero de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+163,Delito – MP,Name,Name,Type,25 de enero de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+164,Delito – MP,Name,Name,Type,25 de enero de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+165,Delito – Judicial,Name,Name,Type,NA,directa,NA,NA,NA,NA,NA,NA,NA,NA,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA
+166,Delito – Judicial,Name,Name,Type,NA,indirecta,NA,NA,NA,NA,NA,NA,NA,NA,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA
+167,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Torture as method of investigation in crimes of high impact [Example],27 de octubre de 2023,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+168,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Deaths for violence in Penitentiary Centers [Example],24 de octubre de 2023,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+169,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),On the violation of the right to movility and access to justice for not guaranteeing security [Example],24 de octubre de 2023,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+170,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),On the right of women to a life free of obstetric violence [Example],24 de octubre de 2023,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+171,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Use of psychological torture as research tool [Example],24 de octubre de 2023,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+172,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Torture as method of investigation in crimes of high impact [Example],24 de octubre de 2023,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+173,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Deaths for violence in Penitentiary Centers [Example],24 de octubre de 2023,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+174,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),On the violation of the right to movility and access to justice for not guaranteeing security [Example],24 de octubre de 2023,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+175,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),On the right of women to a life free of obstetric violence [Example],24 de octubre de 2023,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+176,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Use of psychological torture as research tool [Example],24 de octubre de 2023,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+177,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Torture as method of investigation in crimes of high impact [Example],24 de octubre de 2023,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+178,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Deaths for violence in Penitentiary Centers [Example],24 de octubre de 2023,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+186,Delito – MP,Name,Name,Type,27 de febrero de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+187,Delito – MP,Name,Name,Type,27 de febrero de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+188,Delito – MP,Name,Name,Type,27 de febrero de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+189,Delito – MP,Name,Name,Type,27 de febrero de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+190,Delito – MP,Name,Name,Type,27 de febrero de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+191,Delito – MP,Name,Name,Type,27 de febrero de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+192,Delito – MP,Name,Name,Type,27 de febrero de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+193,Delito – MP,Name,Name,Type,27 de febrero de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+194,Delito – MP,Name,Name,Type,27 de febrero de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+195,Delito – MP,Name,Name,Type,27 de febrero de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+196,Delito – MP,Name,Name,Type,27 de febrero de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+197,Delito – MP,Name,Name,Type,27 de febrero de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+198,Delito – MP,Name,Name,Type,27 de febrero de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+199,Delito – MP,Name,Name,Type,27 de febrero de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+200,Delito – MP,Name,Name,Type,27 de febrero de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+201,Delito – MP,Name,Name,Type,27 de febrero de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+202,Delito – MP,Name,Name,Type,27 de febrero de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+203,Delito – MP,Name,Name,Type,27 de febrero de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+204,Delito – MP,Name,Name,Type,27 de febrero de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+205,Delito – MP,Name,Name,Type,27 de febrero de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+206,Delito – MP,Name,Name,Type,27 de febrero de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+207,Delito – MP,Name,Name,Type,27 de febrero de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+208,Delito – MP,Name,Name,Type,27 de febrero de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+209,Delito – MP,Name,Name,Type,27 de febrero de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+210,Delito – MP,Name,Name,Type,27 de febrero de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+211,Delito – MP,Name,Name,Type,27 de febrero de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+212,Delito – MP,Name,Name,Type,27 de febrero de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+213,Delito – MP,Name,Name,Type,27 de febrero de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+214,Delito – MP,Name,Name,Type,27 de febrero de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+215,Delito – MP,Name,Name,Type,27 de febrero de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+216,Delito – MP,Name,Name,Type,27 de febrero de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+217,Delito – MP,Name,Name,Type,27 de febrero de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+218,Delito – MP,Name,Name,Type,27 de febrero de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+219,Delito – MP,Name,Name,Type,27 de febrero de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+220,Delito – MP,Name,Name,Type,27 de febrero de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+221,Delito – MP,Name,Name,Type,27 de febrero de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+222,Delito – MP,Name,Name,Type,27 de febrero de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+223,Delito – MP,Name,Name,Type,27 de febrero de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+224,Delito – MP,Name,Name,Type,27 de febrero de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+225,Delito – MP,Name,Name,Type,27 de febrero de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+226,Delito – MP,Name,Name,Type,27 de febrero de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+227,Delito – MP,Name,Name,Type,27 de febrero de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+228,Delito – MP,Name,Name,Type,27 de febrero de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+229,Delito – MP,Name,Name,Type,27 de febrero de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+230,Delito – MP,Name,Name,Type,27 de febrero de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+231,Delito – MP,Name,Name,Type,27 de febrero de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+232,Delito – MP,Name,Name,Type,27 de febrero de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+233,Delito – MP,Name,Name,Type,27 de febrero de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+234,Delito – MP,Name,Name,Type,27 de febrero de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+235,Delito – MP,Name,Name,Type,27 de febrero de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+236,Delito – MP,Name,Name,Type,27 de febrero de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+237,Delito – MP,Name,Name,Type,27 de febrero de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+238,Delito – MP,Name,Name,Type,27 de febrero de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+239,Delito – MP,Name,Name,Type,27 de febrero de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+240,Delito – MP,Name,Name,Type,27 de febrero de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+241,Delito – MP,Name,Name,Type,27 de febrero de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+242,Delito – MP,Name,Name,Type,27 de febrero de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+243,Delito – MP,Name,Name,Type,27 de febrero de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+244,Delito – MP,Name,Name,Type,27 de febrero de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+245,Delito – MP,Name,Name,Type,27 de febrero de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+246,Delito – MP,Name,Name,Type,27 de febrero de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+247,Delito – MP,Name,Name,Type,27 de febrero de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+248,Delito – MP,Name,Name,Type,27 de febrero de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+249,Delito – MP,Name,Name,Type,27 de febrero de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+250,Delito – MP,Name,Name,Type,27 de febrero de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+251,Delito – MP,Name,Name,Type,27 de febrero de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+252,Delito – MP,Name,Name,Type,27 de febrero de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+253,Delito – MP,Name,Name,Type,27 de febrero de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+254,Delito – MP,Name,Name,Type,27 de febrero de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+255,Delito – MP,Name,Name,Type,27 de febrero de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+256,Delito – MP,Name,Name,Type,27 de febrero de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+257,Delito – MP,Name,Name,Type,27 de febrero de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+258,Delito – MP,Name,Name,Type,27 de febrero de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+259,Delito – MP,Name,Name,Type,27 de febrero de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+260,Delito – MP,Name,Name,Type,27 de febrero de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+261,Delito – MP,Name,Name,Type,27 de febrero de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+262,Delito – MP,Name,Name,Type,27 de febrero de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+263,Delito – MP,Name,Name,Type,27 de febrero de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+264,Delito – MP,Name,Name,Type,27 de febrero de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+265,Delito – MP,Name,Name,Type,27 de febrero de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+266,Delito – MP,Name,Name,Type,27 de febrero de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+267,Delito – MP,Name,Name,Type,27 de febrero de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+268,Delito – MP,Name,Name,Type,27 de marzo de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+269,Delito – MP,Name,Name,Type,27 de marzo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+270,Delito – MP,Name,Name,Type,27 de marzo de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+271,Delito – MP,Name,Name,Type,27 de marzo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+272,Delito – MP,Name,Name,Type,27 de marzo de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+273,Delito – MP,Name,Name,Type,27 de marzo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+274,Delito – MP,Name,Name,Type,27 de marzo de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+275,Delito – MP,Name,Name,Type,27 de marzo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+276,Delito – MP,Name,Name,Type,27 de marzo de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+277,Delito – MP,Name,Name,Type,27 de marzo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+278,Delito – MP,Name,Name,Type,27 de marzo de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+279,Delito – MP,Name,Name,Type,27 de marzo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+280,Delito – MP,Name,Name,Type,27 de marzo de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+281,Delito – MP,Name,Name,Type,27 de marzo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+282,Delito – MP,Name,Name,Type,27 de marzo de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+283,Delito – MP,Name,Name,Type,27 de marzo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+284,Delito – MP,Name,Name,Type,27 de marzo de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+285,Delito – MP,Name,Name,Type,27 de marzo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+286,Delito – MP,Name,Name,Type,27 de marzo de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+287,Delito – MP,Name,Name,Type,27 de marzo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+288,Delito – MP,Name,Name,Type,27 de marzo de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+289,Delito – MP,Name,Name,Type,27 de marzo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+290,Delito – MP,Name,Name,Type,27 de marzo de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+291,Delito – MP,Name,Name,Type,27 de marzo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+292,Delito – MP,Name,Name,Type,27 de marzo de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+293,Delito – MP,Name,Name,Type,27 de marzo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+294,Delito – MP,Name,Name,Type,27 de marzo de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+295,Delito – MP,Name,Name,Type,27 de marzo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+296,Delito – MP,Name,Name,Type,27 de marzo de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+297,Delito – MP,Name,Name,Type,27 de marzo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+298,Delito – MP,Name,Name,Type,27 de marzo de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+299,Delito – MP,Name,Name,Type,27 de marzo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+300,Delito – MP,Name,Name,Type,27 de marzo de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+301,Delito – MP,Name,Name,Type,27 de marzo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+302,Delito – MP,Name,Name,Type,27 de marzo de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+303,Delito – MP,Name,Name,Type,27 de marzo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+304,Delito – MP,Name,Name,Type,27 de marzo de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+305,Delito – MP,Name,Name,Type,27 de marzo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+306,Delito – MP,Name,Name,Type,27 de marzo de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+307,Delito – MP,Name,Name,Type,27 de marzo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+308,Delito – MP,Name,Name,Type,27 de marzo de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+309,Delito – MP,Name,Name,Type,27 de marzo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+310,Delito – MP,Name,Name,Type,27 de marzo de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+311,Delito – MP,Name,Name,Type,27 de marzo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+312,Delito – Judicial,Name,Name,Type,NA,directa,NA,NA,NA,NA,NA,NA,NA,NA,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA
+313,Delito – Judicial,Name,Name,Type,NA,indirecta,NA,NA,NA,NA,NA,NA,NA,NA,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA
+314,Delito – Judicial,Name,Name,Type,NA,directa,NA,NA,NA,NA,NA,NA,NA,NA,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA
+315,Delito – Judicial,Name,Name,Type,NA,indirecta,NA,NA,NA,NA,NA,NA,NA,NA,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA
+316,Delito – Judicial,Name,Name,Type,NA,directa,NA,NA,NA,NA,NA,NA,NA,NA,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA
+317,Delito – Judicial,Name,Name,Type,NA,indirecta,NA,NA,NA,NA,NA,NA,NA,NA,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA
+318,Delito – Judicial,Name,Name,Type,NA,directa,NA,NA,NA,NA,NA,NA,NA,NA,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA
+319,Delito – Judicial,Name,Name,Type,NA,indirecta,NA,NA,NA,NA,NA,NA,NA,NA,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA
+320,Delito – Judicial,Name,Name,Type,NA,directa,NA,NA,NA,NA,NA,NA,NA,NA,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA
+321,Delito – Judicial,Name,Name,Type,NA,indirecta,NA,NA,NA,NA,NA,NA,NA,NA,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA
+322,Delito – Judicial,Name,Name,Type,NA,directa,NA,NA,NA,NA,NA,NA,NA,NA,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA
+323,Delito – Judicial,Name,Name,Type,NA,indirecta,NA,NA,NA,NA,NA,NA,NA,NA,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA
+324,Delito – Judicial,Name,Name,Type,NA,directa,NA,NA,NA,NA,NA,NA,NA,NA,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA
+325,Delito – Judicial,Name,Name,Type,NA,indirecta,NA,NA,NA,NA,NA,NA,NA,NA,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA
+326,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Torture as method of investigation in crimes of high impact [Example],15 de diciembre de 2021,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+327,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Deaths for violence in Penitentiary Centers [Example],15 de diciembre de 2021,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+328,Delito – MP,Name,Name,Type,1 de abril de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+329,Delito – MP,Name,Name,Type,1 de abril de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+330,Delito – MP,Name,Name,Type,1 de abril de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+331,Delito – MP,Name,Name,Type,1 de abril de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+332,Delito – MP,Name,Name,Type,1 de abril de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+333,Delito – MP,Name,Name,Type,1 de abril de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+334,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),On the right of women to a life free of obstetric violence [Example],09 de noviembre de 2023,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+335,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Use of psychological torture as research tool [Example],09 de noviembre de 2023,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+336,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Torture as method of investigation in crimes of high impact [Example],09 de noviembre de 2023,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+337,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Deaths for violence in Penitentiary Centers [Example],09 de noviembre de 2023,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+338,Delito – MP,Name,Name,Type,24 de abril de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+339,Delito – MP,Name,Name,Type,24 de abril de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+340,Delito – MP,Name,Name,Type,24 de abril de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+341,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Torture as method of investigation in crimes of high impact [Example],17 de noviembre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+342,Delito – MP,Name,Name,Type,30 de abril de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+343,Delito – MP,Name,Name,Type,30 de abril de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+344,Delito – MP,Name,Name,Type,30 de abril de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+345,Delito – MP,Name,Name,Type,30 de abril de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+346,Delito – MP,Name,Name,Type,30 de abril de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+347,Delito – MP,Name,Name,Type,30 de abril de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+348,Delito – MP,Name,Name,Type,30 de abril de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+349,Delito – MP,Name,Name,Type,30 de abril de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+350,Delito – MP,Name,Name,Type,30 de abril de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+351,Delito – MP,Name,Name,Type,8 de mayo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+352,Delito – MP,Name,Name,Type,8 de mayo de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+353,Delito – MP,Name,Name,Type,8 de mayo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+354,Delito – MP,Name,Name,Type,8 de mayo de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+355,Delito – MP,Name,Name,Type,8 de mayo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+356,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Torture as method of investigation in crimes of high impact [Example],24 de octubre de 2023,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+357,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Deaths for violence in Penitentiary Centers [Example],24 de octubre de 2023,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+358,Delito – MP,Name,Name,Type,8 de mayo de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+359,Delito – MP,Name,Name,Type,8 de mayo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+360,Delito – MP,Name,Name,Type,8 de mayo de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+361,Delito – MP,Name,Name,Type,8 de mayo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+362,Delito – MP,Name,Name,Type,8 de mayo de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+363,Delito – MP,Name,Name,Type,8 de mayo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+364,Delito – MP,Name,Name,Type,8 de mayo de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+365,Delito – MP,Name,Name,Type,8 de mayo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+366,Delito – MP,Name,Name,Type,8 de mayo de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+367,Delito – MP,Name,Name,Type,8 de mayo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+368,Delito – MP,Name,Name,Type,8 de mayo de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+369,Delito – MP,Name,Name,Type,8 de mayo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+370,Delito – MP,Name,Name,Type,8 de mayo de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+371,Delito – MP,Name,Name,Type,8 de mayo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+372,Delito – MP,Name,Name,Type,8 de mayo de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+373,Delito – MP,Name,Name,Type,8 de mayo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+374,Delito – MP,Name,Name,Type,8 de mayo de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+375,Delito – MP,Name,Name,Type,8 de mayo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+376,Delito – MP,Name,Name,Type,8 de mayo de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+377,Delito – MP,Name,Name,Type,8 de mayo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+378,Delito – MP,Name,Name,Type,8 de mayo de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+379,Delito – MP,Name,Name,Type,8 de mayo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+380,Delito – MP,Name,Name,Type,8 de mayo de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+381,Delito – MP,Name,Name,Type,8 de mayo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+382,Delito – MP,Name,Name,Type,8 de mayo de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+383,Delito – MP,Name,Name,Type,8 de mayo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+384,Delito – MP,Name,Name,Type,8 de mayo de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+385,Delito – MP,Name,Name,Type,8 de mayo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+386,Delito – MP,Name,Name,Type,8 de mayo de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+387,Delito – MP,Name,Name,Type,8 de mayo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+388,Delito – MP,Name,Name,Type,8 de mayo de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+389,Delito – MP,Name,Name,Type,8 de mayo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+390,Delito – MP,Name,Name,Type,8 de mayo de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+391,Delito – MP,Name,Name,Type,8 de mayo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+392,Delito – MP,Name,Name,Type,8 de mayo de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+393,Delito – MP,Name,Name,Type,8 de mayo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+394,Delito – MP,Name,Name,Type,8 de mayo de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+395,Delito – MP,Name,Name,Type,8 de mayo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+396,Delito – MP,Name,Name,Type,8 de mayo de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+397,Delito – MP,Name,Name,Type,8 de mayo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+398,Delito – MP,Name,Name,Type,8 de mayo de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+399,Delito – MP,Name,Name,Type,8 de mayo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+400,Delito – MP,Name,Name,Type,8 de mayo de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+401,Delito – MP,Name,Name,Type,8 de mayo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+402,Delito – MP,Name,Name,Type,8 de mayo de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+403,Delito – MP,Name,Name,Type,8 de mayo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+404,Delito – MP,Name,Name,Type,8 de mayo de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+405,Delito – Judicial,Name,Name,Type,NA,indirecta,NA,NA,NA,NA,NA,NA,NA,NA,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA
+406,Delito – Judicial,Name,Name,Type,NA,directa,NA,NA,NA,NA,NA,NA,NA,NA,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA
+407,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Deaths for violence in Penitentiary Centers [Example],7 de octubre de 2019,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+408,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),On the violation of the right to movility and access to justice for not guaranteeing security [Example],7 de octubre de 2019,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+409,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),On the right of women to a life free of obstetric violence [Example],7 de octubre de 2019,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+410,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Use of psychological torture as research tool [Example],26 de octubre de 2020,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+411,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Torture as method of investigation in crimes of high impact [Example],26 de octubre de 2020,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+412,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Deaths for violence in Penitentiary Centers [Example],26 de octubre de 2020,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+413,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),On the violation of the right to movility and access to justice for not guaranteeing security [Example],13 de septiembre de 2021,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+414,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),On the right of women to a life free of obstetric violence [Example],15 de diciembre de 2021,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+415,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Use of psychological torture as research tool [Example],11 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+416,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Torture as method of investigation in crimes of high impact [Example],11 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+417,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Deaths for violence in Penitentiary Centers [Example],11 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+418,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),On the violation of the right to movility and access to justice for not guaranteeing security [Example],11 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+419,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),On the right of women to a life free of obstetric violence [Example],11 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+420,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Use of psychological torture as research tool [Example],11 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+421,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Torture as method of investigation in crimes of high impact [Example],11 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+422,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Deaths for violence in Penitentiary Centers [Example],11 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+423,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),On the violation of the right to movility and access to justice for not guaranteeing security [Example],11 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+424,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),On the right of women to a life free of obstetric violence [Example],30 de agosto de 2023,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+425,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Use of psychological torture as research tool [Example],30 de agosto de 2023,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+426,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Torture as method of investigation in crimes of high impact [Example],30 de agosto de 2023,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+427,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Deaths for violence in Penitentiary Centers [Example],21 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+428,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),On the violation of the right to movility and access to justice for not guaranteeing security [Example],27 de octubre de 2023,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+429,Delito – MP,Name,Name,Type,8 de mayo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+430,Delito – MP,Name,Name,Type,8 de mayo de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+431,Delito – MP,Name,Name,Type,8 de mayo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+432,Delito – MP,Name,Name,Type,16 de mayo de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+433,Delito – MP,Name,Name,Type,16 de mayo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+434,Delito – MP,Name,Name,Type,20 de mayo de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+435,Delito – MP,Name,Name,Type,20 de mayo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+436,Delito – MP,Name,Name,Type,20 de mayo de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+437,Delito – MP,Name,Name,Type,20 de mayo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+438,Delito – MP,Name,Name,Type,20 de mayo de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+439,Delito – MP,Name,Name,Type,20 de mayo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+440,Delito – MP,Name,Name,Type,20 de mayo de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+441,Delito – MP,Name,Name,Type,20 de mayo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+442,Delito – MP,Name,Name,Type,20 de mayo de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+443,Delito – MP,Name,Name,Type,20 de mayo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+444,Delito – MP,Name,Name,Type,20 de mayo de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+445,Delito – MP,Name,Name,Type,20 de mayo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+446,Delito – MP,Name,Name,Type,20 de mayo de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+447,Delito – MP,Name,Name,Type,20 de mayo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+448,Delito – MP,Name,Name,Type,20 de mayo de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+449,Delito – MP,Name,Name,Type,20 de mayo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+450,Delito – MP,Name,Name,Type,20 de mayo de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+451,Delito – MP,Name,Name,Type,20 de mayo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+452,Delito – MP,Name,Name,Type,20 de mayo de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+453,Delito – MP,Name,Name,Type,20 de mayo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+454,Delito – MP,Name,Name,Type,20 de mayo de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+455,Delito – MP,Name,Name,Type,20 de mayo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+456,Delito – MP,Name,Name,Type,20 de mayo de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+457,Delito – MP,Name,Name,Type,20 de mayo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+458,Delito – MP,Name,Name,Type,20 de mayo de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+459,Delito – MP,Name,Name,Type,20 de mayo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+460,Delito – MP,Name,Name,Type,20 de mayo de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+461,Delito – MP,Name,Name,Type,20 de mayo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+462,Delito – MP,Name,Name,Type,20 de mayo de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+463,Delito – MP,Name,Name,Type,20 de mayo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+464,Delito – MP,Name,Name,Type,20 de mayo de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+465,Delito – MP,Name,Name,Type,20 de mayo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+466,Delito – MP,Name,Name,Type,20 de mayo de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+467,Delito – MP,Name,Name,Type,20 de mayo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+468,Delito – MP,Name,Name,Type,20 de mayo de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+469,Delito – MP,Name,Name,Type,20 de mayo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+470,Delito – MP,Name,Name,Type,20 de mayo de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+471,Delito – MP,Name,Name,Type,20 de mayo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+472,Delito – MP,Name,Name,Type,20 de mayo de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+473,Delito – MP,Name,Name,Type,20 de mayo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+474,Delito – MP,Name,Name,Type,20 de mayo de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+475,Delito – MP,Name,Name,Type,20 de mayo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+476,Delito – MP,Name,Name,Type,20 de mayo de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+477,Delito – MP,Name,Name,Type,20 de mayo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+478,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Torture as method of investigation in crimes of high impact [Example],26 de septiembre de 2019,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+479,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Deaths for violence in Penitentiary Centers [Example],13 de noviembre de 2020,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+485,Delito – MP,Name,Name,Type,4 de junio de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+486,Delito – MP,Name,Name,Type,4 de junio de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+487,Delito – MP,Name,Name,Type,4 de junio de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+488,Delito – MP,Name,Name,Type,4 de junio de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+489,Delito – MP,Name,Name,Type,4 de junio de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+490,Delito – MP,Name,Name,Type,4 de junio de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+491,Delito – MP,Name,Name,Type,4 de junio de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+492,Delito – MP,Name,Name,Type,4 de junio de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+493,Delito – MP,Name,Name,Type,4 de junio de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+494,Delito – MP,Name,Name,Type,4 de junio de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+495,Delito – MP,Name,Name,Type,4 de junio de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+496,Delito – MP,Name,Name,Type,8 de mayo de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+497,Delito – MP,Name,Name,Type,4 de junio de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+498,Delito – MP,Name,Name,Type,4 de junio de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+499,Delito – MP,Name,Name,Type,4 de junio de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+500,Delito – MP,Name,Name,Type,4 de junio de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+501,Delito – MP,Name,Name,Type,4 de junio de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+502,Delito – MP,Name,Name,Type,4 de junio de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+503,Delito – MP,Name,Name,Type,4 de junio de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+504,Delito – MP,Name,Name,Type,4 de junio de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+505,Delito – MP,Name,Name,Type,20 de junio de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+506,Delito – MP,Name,Name,Type,20 de junio de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+507,Delito – MP,Name,Name,Type,20 de junio de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+508,Delito – MP,Name,Name,Type,20 de junio de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+509,Delito – MP,Name,Name,Type,20 de junio de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+510,Delito – MP,Name,Name,Type,20 de junio de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+511,Delito – MP,Name,Name,Type,20 de junio de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+512,Delito – MP,Name,Name,Type,20 de junio de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+513,Delito – MP,Name,Name,Type,20 de junio de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+514,Delito – MP,Name,Name,Type,20 de junio de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+515,Delito – MP,Name,Name,Type,20 de junio de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+516,Delito – MP,Name,Name,Type,27 de junio de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+517,Delito – MP,Name,Name,Type,27 de junio de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+518,Delito – MP,Name,Name,Type,27 de junio de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+519,Delito – MP,Name,Name,Type,27 de junio de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+520,Delito – MP,Name,Name,Type,27 de junio de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+521,Delito – MP,Name,Name,Type,27 de junio de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+522,Delito – MP,Name,Name,Type,27 de junio de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+523,Delito – MP,Name,Name,Type,27 de junio de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+524,Delito – MP,Name,Name,Type,27 de junio de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+525,Delito – MP,Name,Name,Type,27 de junio de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+526,Delito – MP,Name,Name,Type,27 de junio de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+527,Delito – MP,Name,Name,Type,27 de junio de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+528,Delito – MP,Name,Name,Type,27 de junio de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+529,Delito – MP,Name,Name,Type,27 de junio de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+530,Delito – MP,Name,Name,Type,27 de junio de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+531,Delito – MP,Name,Name,Type,27 de junio de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+532,Delito – MP,Name,Name,Type,27 de junio de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+533,Delito – MP,Name,Name,Type,27 de junio de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+534,Delito – Judicial,Name,Name,Type,NA,indirecta,NA,NA,NA,NA,NA,NA,NA,NA,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA
+535,Delito – Judicial,Name,Name,Type,NA,directa,NA,NA,NA,NA,NA,NA,NA,NA,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA
+536,Delito – Judicial,Name,Name,Type,NA,indirecta,NA,NA,NA,NA,NA,NA,NA,NA,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA
+537,Delito – Judicial,Name,Name,Type,NA,directa,NA,NA,NA,NA,NA,NA,NA,NA,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA
+538,Delito – Judicial,Name,Name,Type,NA,indirecta,NA,NA,NA,NA,NA,NA,NA,NA,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA
+539,Delito – Judicial,Name,Name,Type,NA,directa,NA,NA,NA,NA,NA,NA,NA,NA,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA
+540,Delito – Judicial,Name,Name,Type,NA,indirecta,NA,NA,NA,NA,NA,NA,NA,NA,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA
+541,Delito – Judicial,Name,Name,Type,NA,directa,NA,NA,NA,NA,NA,NA,NA,NA,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA
+542,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Use of psychological torture as research tool [Example],26 de septiembre de 2019,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+543,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Torture as method of investigation in crimes of high impact [Example],27 de diciembre de 2023,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+545,Delito – MP,Name,Name,Type,24 de julio de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+546,Delito – MP,Name,Name,Type,24 de julio de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+547,Delito – MP,Name,Name,Type,24 de julio de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+548,Delito – MP,Name,Name,Type,24 de julio de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+549,Delito – MP,Name,Name,Type,24 de julio de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+550,Delito – MP,Name,Name,Type,24 de julio de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+551,Delito – MP,Name,Name,Type,24 de julio de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+552,Delito – MP,Name,Name,Type,24 de julio de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+553,Delito – MP,Name,Name,Type,24 de julio de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+554,Delito – MP,Name,Name,Type,24 de julio de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+555,Delito – MP,Name,Name,Type,24 de julio de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+556,Delito – MP,Name,Name,Type,24 de julio de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+557,Delito – MP,Name,Name,Type,24 de julio de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+558,Delito – MP,Name,Name,Type,24 de julio de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+559,Delito – MP,Name,Name,Type,24 de julio de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+560,Delito – MP,Name,Name,Type,24 de julio de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+561,Delito – MP,Name,Name,Type,24 de julio de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+562,Delito – MP,Name,Name,Type,24 de julio de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+563,Delito – MP,Name,Name,Type,24 de julio de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+564,Delito – MP,Name,Name,Type,24 de julio de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+565,Delito – MP,Name,Name,Type,24 de julio de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+566,Delito – MP,Name,Name,Type,24 de julio de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+567,Delito – MP,Name,Name,Type,24 de julio de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+568,Delito – MP,Name,Name,Type,24 de julio de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+569,Delito – MP,Name,Name,Type,24 de julio de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+570,Delito – MP,Name,Name,Type,24 de julio de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+571,Delito – MP,Name,Name,Type,24 de julio de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+572,Delito – MP,Name,Name,Type,24 de julio de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+573,Delito – MP,Name,Name,Type,24 de julio de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+574,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Torture as method of investigation in crimes of high impact [Example],26 de diciembre de 2023,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+575,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Deaths for violence in Penitentiary Centers [Example],24 de octubre de 2023,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+576,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),On the violation of the right to movility and access to justice for not guaranteeing security [Example],24 de octubre de 2023,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+577,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),On the right of women to a life free of obstetric violence [Example],24 de octubre de 2023,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+578,Delito – Judicial,Name,Name,Type,NA,directa,NA,NA,NA,NA,NA,NA,NA,NA,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA
+579,Delito – Judicial,Name,Name,Type,NA,indirecta,NA,NA,NA,NA,NA,NA,NA,NA,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA
+580,Delito – Judicial,Name,Name,Type,NA,directa,NA,NA,NA,NA,NA,NA,NA,NA,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA
+581,Delito – Judicial,Name,Name,Type,NA,indirecta,NA,NA,NA,NA,NA,NA,NA,NA,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA
+582,Delito – Judicial,Name,Name,Type,NA,directa,NA,NA,NA,NA,NA,NA,NA,NA,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA
+583,Delito – Judicial,Name,Name,Type,NA,indirecta,NA,NA,NA,NA,NA,NA,NA,NA,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA
+584,Delito – MP,Name,Name,Type,05 de agosto de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+585,Delito – MP,Name,Name,Type,05 de agosto de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+586,Delito – MP,Name,Name,Type,05 de agosto de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+587,Delito – MP,Name,Name,Type,05 de agosto de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+588,Delito – MP,Name,Name,Type,05 de agosto de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+589,Delito – MP,Name,Name,Type,05 de agosto de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+590,Delito – MP,Name,Name,Type,05 de agosto de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+591,Delito – MP,Name,Name,Type,05 de agosto de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+592,Delito – MP,Name,Name,Type,05 de agosto de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+593,Delito – MP,Name,Name,Type,05 de agosto de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+594,Delito – MP,Name,Name,Type,05 de agosto de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+595,Delito – MP,Name,Name,Type,05 de agosto de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+596,Delito – MP,Name,Name,Type,05 de agosto de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+597,Delito – MP,Name,Name,Type,05 de agosto de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+598,Delito – MP,Name,Name,Type,05 de agosto de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+599,Delito – MP,Name,Name,Type,05 de agosto de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+600,Delito – MP,Name,Name,Type,05 de agosto de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+601,Delito – MP,Name,Name,Type,05 de agosto de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+602,Delito – MP,Name,Name,Type,05 de agosto de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+603,Delito – MP,Name,Name,Type,05 de agosto de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+604,Delito – MP,Name,Name,Type,05 de agosto de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+605,Delito – MP,Name,Name,Type,05 de agosto de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+606,Delito – MP,Name,Name,Type,05 de agosto de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+607,Delito – MP,Name,Name,Type,05 de agosto de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+608,Delito – MP,Name,Name,Type,05 de agosto de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+609,Delito – MP,Name,Name,Type,05 de agosto de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+610,Delito – MP,Name,Name,Type,05 de agosto de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+611,Delito – MP,Name,Name,Type,05 de agosto de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+612,Delito – MP,Name,Name,Type,05 de agosto de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+613,Delito – MP,Name,Name,Type,13 de agosto de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+614,Delito – MP,Name,Name,Type,13 de agosto de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+615,Delito – MP,Name,Name,Type,13 de agosto de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+616,Delito – MP,Name,Name,Type,13 de agosto de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+617,Delito – MP,Name,Name,Type,13 de agosto de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+618,Delito – Judicial,Name,Name,Type,NA,directa,NA,NA,NA,NA,NA,NA,NA,NA,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA
+619,Delito – Judicial,Name,Name,Type,NA,indirecta,NA,NA,NA,NA,NA,NA,NA,NA,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA
+620,Delito – Judicial,Name,Name,Type,NA,directa,NA,NA,NA,NA,NA,NA,NA,NA,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA
+621,Delito – MP,Name,Name,Type,13 de agosto de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+622,Delito – MP,Name,Name,Type,13 de agosto de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+623,Delito – MP,Name,Name,Type,13 de agosto de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+624,Delito – MP,Name,Name,Type,13 de agosto de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+625,Delito – MP,Name,Name,Type,13 de agosto de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+626,Delito – MP,Name,Name,Type,13 de agosto de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+627,Delito – MP,Name,Name,Type,13 de agosto de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+628,Delito – MP,Name,Name,Type,13 de agosto de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+629,Delito – MP,Name,Name,Type,13 de agosto de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+630,Delito – MP,Name,Name,Type,13 de agosto de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+631,Delito – MP,Name,Name,Type,13 de agosto de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+632,Delito – MP,Name,Name,Type,13 de agosto de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+633,Delito – MP,Name,Name,Type,13 de agosto de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+634,Delito – MP,Name,Name,Type,13 de agosto de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+635,Delito – MP,Name,Name,Type,13 de agosto de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+636,Delito – MP,Name,Name,Type,13 de agosto de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+637,Delito – MP,Name,Name,Type,13 de agosto de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+638,Delito – MP,Name,Name,Type,13 de agosto de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+639,Delito – MP,Name,Name,Type,13 de agosto de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+640,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Torture as method of investigation in crimes of high impact [Example],8 de marzo de 1994,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+641,Delito – MP,Name,Name,Type,27 de agosto de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+642,Delito – MP,Name,Name,Type,27 de agosto de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+643,Delito – MP,Name,Name,Type,27 de agosto de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+644,Delito – MP,Name,Name,Type,27 de agosto de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+645,Delito – MP,Name,Name,Type,27 de agosto de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+646,Delito – MP,Name,Name,Type,27 de agosto de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+647,Delito – MP,Name,Name,Type,27 de agosto de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+648,Delito – MP,Name,Name,Type,27 de agosto de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+649,Delito – MP,Name,Name,Type,27 de agosto de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+650,Delito – MP,Name,Name,Type,27 de agosto de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+651,Delito – MP,Name,Name,Type,27 de agosto de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+652,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),On the violation of the right to movility and access to justice for not guaranteeing security [Example],26 de septiembre de 2019,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+653,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),On the right of women to a life free of obstetric violence [Example],21 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+654,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Use of psychological torture as research tool [Example],21 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+655,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Torture as method of investigation in crimes of high impact [Example],21 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+656,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Deaths for violence in Penitentiary Centers [Example],24 de octubre de 2023,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+657,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),On the violation of the right to movility and access to justice for not guaranteeing security [Example],24 de octubre de 2023,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+658,Violación DH,Name,Name,Type,dd de mm de yy,directa,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),On the right of women to a life free of obstetric violence [Example],24 de octubre de 2023,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima directa {1:},NA,NA,NA
+659,Violación DH,Name,Name,Type,dd de mm de yy,indirecta,dd de mm de yy,NA,Anexo {1:},{1:]/{yyyy),Use of psychological torture as research tool [Example],21 de octubre de 2022,"A) Violated righ one, B) Violated right two, C) Violated right three",víctima indirecta {1:},NA,NA,NA
+660,Delito – MP,Name,Name,Type,11 de septiembre de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+661,Delito – MP,Name,Name,Type,11 de septiembre de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+662,Delito – MP,Name,Name,Type,11 de septiembre de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+663,Delito – MP,Name,Name,Type,11 de septiembre de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+664,Delito – MP,Name,Name,Type,11 de septiembre de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+665,Delito – MP,Name,Name,Type,11 de septiembre de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+666,Delito – MP,Name,Name,Type,11 de septiembre de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+667,Delito – MP,Name,Name,Type,11 de septiembre de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+668,Delito – MP,Name,Name,Type,11 de septiembre de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+669,Delito – MP,Name,Name,Type,11 de septiembre de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+670,Delito – MP,Name,Name,Type,11 de septiembre de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+671,Delito – MP,Name,Name,Type,11 de septiembre de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+672,Delito – MP,Name,Name,Type,11 de septiembre de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+673,Delito – MP,Name,Name,Type,11 de septiembre de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+674,Delito – MP,Name,Name,Type,11 de septiembre de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+675,Delito – MP,Name,Name,Type,11 de septiembre de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+676,Delito – MP,Name,Name,Type,11 de septiembre de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+677,Delito – MP,Name,Name,Type,11 de septiembre de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+678,Delito – MP,Name,Name,Type,11 de septiembre de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+679,Delito – MP,Name,Name,Type,11 de septiembre de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+680,Delito – MP,Name,Name,Type,11 de septiembre de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+681,Delito – MP,Name,Name,Type,11 de septiembre de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+682,Delito – MP,Name,Name,Type,11 de septiembre de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+683,Delito – MP,Name,Name,Type,11 de septiembre de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+684,Delito – MP,Name,Name,Type,11 de septiembre de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+685,Delito – MP,Name,Name,Type,11 de septiembre de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+686,Delito – MP,Name,Name,Type,11 de septiembre de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+687,Delito – MP,Name,Name,Type,11 de septiembre de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+688,Delito – MP,Name,Name,Type,11 de septiembre de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+689,Delito – MP,Name,Name,Type,11 de septiembre de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+690,Delito – MP,Name,Name,Type,11 de septiembre de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+691,Delito – MP,Name,Name,Type,11 de septiembre de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+692,Delito – MP,Name,Name,Type,11 de septiembre de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+693,Delito – MP,Name,Name,Type,11 de septiembre de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+694,Delito – MP,Name,Name,Type,11 de septiembre de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+695,Delito – MP,Name,Name,Type,11 de septiembre de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+696,Delito – MP,Name,Name,Type,11 de septiembre de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+697,Delito – MP,Name,Name,Type,11 de septiembre de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+698,Delito – MP,Name,Name,Type,11 de septiembre de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+699,Delito – MP,Name,Name,Type,11 de septiembre de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+700,Delito – MP,Name,Name,Type,11 de septiembre de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+701,Delito – MP,Name,Name,Type,11 de septiembre de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+702,Delito – MP,Name,Name,Type,11 de septiembre de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+703,Delito – MP,Name,Name,Type,11 de septiembre de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+704,Delito – MP,Name,Name,Type,11 de septiembre de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+705,Delito – MP,Name,Name,Type,11 de septiembre de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+706,Delito – MP,Name,Name,Type,11 de septiembre de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+707,Delito – MP,Name,Name,Type,11 de septiembre de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+708,Delito – MP,Name,Name,Type,11 de septiembre de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+709,Delito – MP,Name,Name,Type,11 de septiembre de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+710,Delito – MP,Name,Name,Type,11 de septiembre de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+711,Delito – MP,Name,Name,Type,11 de septiembre de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+712,Delito – MP,Name,Name,Type,11 de septiembre de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+713,Delito – MP,Name,Name,Type,11 de septiembre de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+714,Delito – MP,Name,Name,Type,11 de septiembre de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+715,Delito – MP,Name,Name,Type,11 de septiembre de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+716,Delito – MP,Name,Name,Type,11 de septiembre de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+717,Delito – MP,Name,Name,Type,11 de septiembre de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+718,Delito – MP,Name,Name,Type,11 de septiembre de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+719,Delito – MP,Name,Name,Type,11 de septiembre de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+720,Delito – MP,Name,Name,Type,11 de septiembre de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+721,Delito – MP,Name,Name,Type,11 de septiembre de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+722,Delito – MP,Name,Name,Type,11 de septiembre de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+723,Delito – MP,Name,Name,Type,19 de septiembre de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+724,Delito – MP,Name,Name,Type,19 de septiembre de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+725,Delito – MP,Name,Name,Type,19 de septiembre de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+726,Delito – Judicial,Name,Name,Type,NA,directa,NA,NA,NA,NA,NA,NA,NA,NA,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA
+727,Delito – Judicial,Name,Name,Type,NA,indirecta,NA,NA,NA,NA,NA,NA,NA,NA,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA
+728,Delito – Judicial,Name,Name,Type,NA,directa,NA,NA,NA,NA,NA,NA,NA,NA,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA
+729,Delito – MP,Name,Name,Type,19 de septiembre de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+730,Delito – MP,Name,Name,Type,19 de septiembre de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+731,Delito – MP,Name,Name,Type,19 de septiembre de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+732,Delito – MP,Name,Name,Type,19 de septiembre de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+733,Delito – MP,Name,Name,Type,19 de septiembre de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+734,Delito – MP,Name,Name,Type,19 de septiembre de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+735,Delito – MP,Name,Name,Type,19 de septiembre de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+736,Delito – MP,Name,Name,Type,19 de septiembre de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+737,Delito – MP,Name,Name,Type,19 de septiembre de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+738,Delito – MP,Name,Name,Type,19 de septiembre de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+739,Delito – MP,Name,Name,Type,19 de septiembre de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+740,Delito – MP,Name,Name,Type,19 de septiembre de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+741,Delito – MP,Name,Name,Type,19 de septiembre de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+742,Delito – MP,Name,Name,Type,19 de septiembre de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+743,Delito – MP,Name,Name,Type,19 de septiembre de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+744,Delito – MP,Name,Name,Type,19 de septiembre de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+745,Delito – MP,Name,Name,Type,19 de septiembre de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+746,Delito – MP,Name,Name,Type,19 de septiembre de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+747,Delito – MP,Name,Name,Type,19 de septiembre de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+748,Delito – MP,Name,Name,Type,19 de septiembre de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+749,Delito – MP,Name,Name,Type,19 de septiembre de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+750,Delito – MP,Name,Name,Type,19 de septiembre de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+751,Delito – MP,Name,Name,Type,19 de septiembre de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+752,Delito – MP,Name,Name,Type,19 de septiembre de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+753,Delito – MP,Name,Name,Type,19 de septiembre de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+754,Delito – MP,Name,Name,Type,19 de septiembre de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+755,Delito – MP,Name,Name,Type,19 de septiembre de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+756,Delito – MP,Name,Name,Type,04 de octubre de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+757,Delito – MP,Name,Name,Type,04 de octubre de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+758,Delito – MP,Name,Name,Type,04 de octubre de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+759,Delito – MP,Name,Name,Type,04 de octubre de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+760,Delito – MP,Name,Name,Type,04 de octubre de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+761,Delito – MP,Name,Name,Type,04 de octubre de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+762,Delito – MP,Name,Name,Type,04 de octubre de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+763,Delito – MP,Name,Name,Type,04 de octubre de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+764,Delito – MP,Name,Name,Type,04 de octubre de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+765,Delito – MP,Name,Name,Type,04 de octubre de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+766,Delito – MP,Name,Name,Type,04 de octubre de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+767,Delito – MP,Name,Name,Type,04 de octubre de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+768,Delito – MP,Name,Name,Type,04 de octubre de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+769,Delito – MP,Name,Name,Type,04 de octubre de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+770,Delito – MP,Name,Name,Type,04 de octubre de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+771,Delito – MP,Name,Name,Type,04 de octubre de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+772,Delito – MP,Name,Name,Type,04 de octubre de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+773,Delito – MP,Name,Name,Type,04 de octubre de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+774,Delito – MP,Name,Name,Type,04 de octubre de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+775,Delito – MP,Name,Name,Type,04 de octubre de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+776,Delito – MP,Name,Name,Type,04 de octubre de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+777,Delito – MP,Name,Name,Type,04 de octubre de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+778,Delito – MP,Name,Name,Type,04 de octubre de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+779,Delito – MP,Name,Name,Type,04 de octubre de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+780,Delito – MP,Name,Name,Type,04 de octubre de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+781,Delito – MP,Name,Name,Type,04 de octubre de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+782,Delito – MP,Name,Name,Type,04 de octubre de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+783,Delito – MP,Name,Name,Type,04 de octubre de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+784,Delito – MP,Name,Name,Type,04 de octubre de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+785,Delito – Judicial,Name,Name,Type,NA,indirecta,NA,NA,NA,NA,NA,NA,NA,NA,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA
+786,Delito – Judicial,Name,Name,Type,NA,directa,NA,NA,NA,NA,NA,NA,NA,NA,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA
+787,Delito – MP,Name,Name,Type,15 de octubre de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+788,Delito – MP,Name,Name,Type,15 de octubre de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+789,Delito – MP,Name,Name,Type,15 de octubre de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+790,Delito – MP,Name,Name,Type,15 de octubre de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+791,Delito – MP,Name,Name,Type,15 de octubre de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+792,Delito – MP,Name,Name,Type,15 de octubre de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+793,Delito – MP,Name,Name,Type,15 de octubre de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+794,Delito – MP,Name,Name,Type,15 de octubre de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+795,Delito – MP,Name,Name,Type,15 de octubre de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+796,Delito – MP,Name,Name,Type,15 de octubre de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+797,Delito – MP,Name,Name,Type,15 de octubre de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+798,Delito – MP,Name,Name,Type,15 de octubre de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+799,Delito – MP,Name,Name,Type,15 de octubre de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+800,Delito – MP,Name,Name,Type,15 de octubre de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+801,Delito – MP,Name,Name,Type,15 de octubre de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+802,Delito – MP,Name,Name,Type,15 de octubre de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+803,Delito – MP,Name,Name,Type,15 de octubre de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+804,Delito – MP,Name,Name,Type,15 de octubre de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+805,Delito – Judicial,Name,Name,Type,NA,indirecta,NA,NA,NA,NA,NA,NA,NA,NA,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA
+806,Delito – Judicial,Name,Name,Type,NA,directa,NA,NA,NA,NA,NA,NA,NA,NA,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA
+807,Delito – Judicial,Name,Name,Type,NA,indirecta,NA,NA,NA,NA,NA,NA,NA,NA,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA
+808,Delito – Judicial,Name,Name,Type,NA,directa,NA,NA,NA,NA,NA,NA,NA,NA,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA
+809,Delito – Judicial,Name,Name,Type,NA,indirecta,NA,NA,NA,NA,NA,NA,NA,NA,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA
+810,Delito – Judicial,Name,Name,Type,NA,directa,NA,NA,NA,NA,NA,NA,NA,NA,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA
+811,Delito – Judicial,Name,Name,Type,NA,indirecta,NA,NA,NA,NA,NA,NA,NA,NA,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA
+812,Delito – MP,Name,Name,Type,15 de octubre de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+813,Delito – MP,Name,Name,Type,15 de octubre de 2024,indirecta,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+814,Delito – MP,Name,Name,Type,15 de octubre de 2024,directa,dd de mm de yy,ALPHANUMERIC/KEY/YEAR,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,,,,,,,,,,,Lack of due diligence and aplication of the gender perspective and differentiated aproach in family violence investigation [Example],,,,,,
